@@ -67,6 +67,7 @@ set(python_srcs
    src/shape_predictor.cpp
    src/correlation_tracker.cpp
    src/face_recognition.cpp
+   src/highdim_face_lbp_descriptor.cpp
    src/cnn_face_detector.cpp
    src/global_optimization.cpp
    src/image_dataset_metadata.cpp
